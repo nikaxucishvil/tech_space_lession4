@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    color: darkblue;
+}
+
+p{
+    color: green;
+}
+
+ul{
+    list-style-type: none;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
